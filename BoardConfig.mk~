@@ -21,7 +21,6 @@
 # definition file).
 #
 
-BUILD_KERNEL := true
 USE_CAMERA_STUB := false
 TARGET_NO_BOOTLOADER := true
 
